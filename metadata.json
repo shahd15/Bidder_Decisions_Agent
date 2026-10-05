@@ -1,0 +1,6 @@
+{
+  "name": "BidderDecisions",
+  "description": "AI procurement decision platform for healthcare SMEs, medical equipment suppliers, and device distributors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
